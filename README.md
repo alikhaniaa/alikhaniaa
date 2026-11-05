@@ -6,6 +6,7 @@ MSc student in AI and Robotics (Khatam University, Tehran), with a BSc in cellul
 
 - [streaming-local-credit](https://github.com/alikhaniaa/streaming-local-credit): streaming actor-critic (batch size 1, no replay) on four MuJoCo tasks, with hidden layers trained by local feedback rules. Per-seed results, tables and commands to reproduce them.
 - [kmer-sketch](https://github.com/alikhaniaa/kmer-sketch): a small Rust tool for k-mer counting and FracMinHash sketching, with simulated read sets to test it. Tests, benchmarks and failure cases are in the README.
+- [sparsepack](https://github.com/alikhaniaa/sparsepack): Rust library and command-line tool for a compressed, block-indexed file format for sparse integer matrices: delta and varint coding, per-block checksums, random access by row range, parallel filtering and column sums. Tests, a byte-level format description and benchmarks with their limits are in the repository.
 - [ghostwave](https://github.com/alikhaniaa/ghostwave): C++ electric-field model of a weakly electric fish, with tests and a physics write-up with references, plus a small game built on it.
 - [data-hub](https://github.com/alikhaniaa/data-hub): Python toolkit that collects public market data into Parquet files with incremental updates.
 - [io.avreen](https://github.com/alikhaniaa/io.avreen): my fork of the open-source ISO 8583 messaging framework (Java, Netty) from the payment-switch project where I wrote Java backend components. The fork is a snapshot of the company's repository; its history is theirs, not mine.
