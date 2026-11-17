@@ -1,8 +1,8 @@
 # Alireza Alikhani
 
-Software developer (Java backend, full-stack web) and MSc student in AI and Robotics, with a BSc in cell and molecular biology. I want to build research software for biology.
+Software developer (Java backend, full-stack web) and MSc student in AI and Robotics, with a BSc in cell and molecular biology.
 
-## Research software
+## Projects
 
 - [kmer-sketch](https://github.com/alikhaniaa/kmer-sketch) (Rust): k-mer counting, FracMinHash sketches, clustering of read sets by species.
 - [sparsepack](https://github.com/alikhaniaa/sparsepack) (Rust): compressed, block-indexed file format for sparse integer matrices.
